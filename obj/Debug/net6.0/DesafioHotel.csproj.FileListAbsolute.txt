@@ -1,0 +1,15 @@
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\obj\Debug\net6.0\DesafioHotel.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\obj\Debug\net6.0\DesafioHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\obj\Debug\net6.0\DesafioHotel.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\obj\Debug\net6.0\DesafioHotel.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\obj\Debug\net6.0\DesafioHotel.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\bin\Debug\net6.0\DesafioHotel.exe
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\bin\Debug\net6.0\DesafioHotel.deps.json
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\bin\Debug\net6.0\DesafioHotel.runtimeconfig.json
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\bin\Debug\net6.0\DesafioHotel.dll
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\bin\Debug\net6.0\DesafioHotel.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\obj\Debug\net6.0\DesafioHotel.dll
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\obj\Debug\net6.0\refint\DesafioHotel.dll
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\obj\Debug\net6.0\DesafioHotel.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\obj\Debug\net6.0\DesafioHotel.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Área de Trabalho\DIO\potencial\DesafioHotel\obj\Debug\net6.0\ref\DesafioHotel.dll
